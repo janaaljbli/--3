@@ -8,6 +8,3 @@ input.onGesture(Gesture.Shake, function () {
 let add = 0
 let jist: game.LedSprite = null
 jist = game.createSprite(4, 2)
-basic.forever(function () {
-	
-})
